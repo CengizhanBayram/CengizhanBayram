@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CengizhanBayram</h1>
+<h1 align="center">Hi 👋, I'm Cengizhan</h1>
 <h3 align="center">I am Computer Engineering Student in Celal Bayar Universty</h3>
 
 - 🔭 I’m currently working on [AI and Machine Learning](https://github.com/CengizhanBayram/DeepLearningandMachineLearning-)
