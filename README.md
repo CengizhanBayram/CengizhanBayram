@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [AI and Machine Learning](https://github.com/CengizhanBayram/DeepLearningandMachineLearning-)
 
-- 🌱 I’m currently learning **LLM and NLP**
+- 🌱 I’m currently learning **LLM and NLP and Image Processing **
 
 - 📫 How to reach me **cenghanbayram35@gmail.com**
 
