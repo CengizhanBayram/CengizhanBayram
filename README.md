@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cengizha BAYRAM</h1>
+<h1 align="center">Hi 👋, I'm CengizhaN BAYRAM</h1>
 <h3 align="center">Passionate AI Engineer (NLP &LLM& Computer Vision)</h3>
 
 
