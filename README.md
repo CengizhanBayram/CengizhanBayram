@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cengizha BAYRAM</h1>
 <h3 align="center">Passionate AI Engineer (NLP &LLM& Computer Vision)</h3>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
