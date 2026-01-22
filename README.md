@@ -530,9 +530,10 @@ Novel validation-driven optimization method for Adam optimizer. Improved loss on
 ---
 
 <!-- Greek Mythology Themed Header -->
-<img src="https://capsule-render.vercel.app/api?type=soft&height=180&color=0:0a1929,100:1e3a5f&text=⚔️%20CREDOS%20%26%20MOTTOS%20⚔️&fontSize=45&fontColor=D4AF37&animation=fadeIn&desc=The%20Principles%20of%20a%20Modern%20Engineer&descSize=16&descColor=B0C4DE" width="100%"/>
 
 <br/>
+<img width="650" height="348" alt="image" src="https://github.com/user-attachments/assets/c7ecd98b-e686-4c12-947d-5e083437e5e1" />
+
 
 ### ⚡ AUDENTES FORTUNA IUVAT ⚡
 **Fortune Favors the Bold**
@@ -556,7 +557,9 @@ Novel validation-driven optimization method for Adam optimizer. Improved loss on
 *Like the journey of Odysseus, every obstacle conquered*  
 *becomes a stepping stone to greatness beyond imagination*
 
+
 <br/>
+<img width="224" height="297" alt="image" src="https://github.com/user-attachments/assets/d8cb4da5-5926-4dc7-b215-26ae14c30d9d" />
 
 ---
 
