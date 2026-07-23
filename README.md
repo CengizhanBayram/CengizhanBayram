@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Epic Animated Header -->
+<!-- Epic Animated Header --
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=CENGIZHAN%20BAYRAM&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20AI%2FML%20ENGINEER%20%7C%20LLM%20SPECIALIST%20%7C%20SPEECH%20AI%20EXPERT%20⚡&descSize=18&descAlignY=55" width="100%"/>
 
 <!-- Typing Animation with Multiple Lines -->
